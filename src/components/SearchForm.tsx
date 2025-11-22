@@ -28,7 +28,7 @@ const setResults = useSearchResultStore(state=>state.setResults);
       <div className="flex flex-col items-center gap-4 mt-12">
         <Spinner className="size-20" />
         <p className="text-gray-600 text-lg">
-          Please Wait, data is still loading...
+           Please Kindly Wait, Data Is Still Loading...
         </p>
       </div>
     );
